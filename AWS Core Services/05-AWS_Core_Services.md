@@ -392,4 +392,4 @@ AWS offers [Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/tr
     * Use cases: omnichannel self-service experience, agent productivity with AI, optimize from insights.
 
 
-    ##  [BACK](./01-Value_Of_AWS_Cloud.md)  |  [NEXT](./02-AWS_Shared_Responsibility_Model.md)
+    ##  [BACK](01-Value_Of_AWS_Cloud.md)  |  [NEXT](02-AWS_Shared_Responsibility_Model.md)
