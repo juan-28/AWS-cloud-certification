@@ -45,4 +45,4 @@ If you suspect any abuse of AWS resources, take the following steps:
 
 By understanding and fulfilling your responsibilities within the AWS shared responsibility model, you can help maintain the security and compliance of your cloud environment.
 
-[BACK](./05-AWS_Core_Services.md) | [NEXT](./03-AWS_Security_Best_Practices.md)
+[BACK](05-AWS_Core_Services.md) | [NEXT](./03-AWS_Security_Best_Practices.md)
