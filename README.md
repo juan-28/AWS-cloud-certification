@@ -1,23 +1,3 @@
-<<<<<<< HEAD
-# AWS-cloud-certification
-=======
-# Are you looking to achieve AWS Certification in just 2 weeks or less? If the answer is yes, then this repository is tailor-made for you!
-
-Good Luck with the AWS Cloud Practitioner Certification Exam! 
-
-I passed the AWS CCP with few days of review and without spending any money other than 
-the exam cost. I developed these notes for those who are trying to get into Cloud. If you're on github and looking for this type of content - that's great!
-
-
-![](./assets/aws-ccp-score.png)
-<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png"/>
-These are great certification preparation notes for the AWS Cloud Practitioner Certification CLF-C02 in 2023. 
-However, to make the text more engaging and informative, let's rephrase and structure it:
-
-The AWS Cloud Practitioner Certification (CLF-C02) is a valuable accreditation for anyone looking to gain 
-comprehensive knowledge about the multitude of AWS offerings. AWS boasts a staggering array of over 200 fully-featured services that cater to a wide spectrum of technologies, industries, and use cases. This diversity makes it an indispensable component of any organization's digital transformation journey.
-
-
 # AWS Certified Cloud Practitioner Exam CLF-C02
 This contains all the relevant information on the new AWS Certified Cloud Practitioner CLF-C02 exam
 
@@ -28,13 +8,6 @@ The new exam domains for the AWS Certified Cloud Practitioner (CLF-C02) test are
 - Domain 2: Security and Compliance 30%
 - Domain 3: Cloud Technology and Services 34%
 - Domain 4: Billing, Pricing, and Support 12%
-
-
-[![AWS Certified Cloud Pracititioner CLF-C02 Exam Domains](https://td-mainsite-cdn.tutorialsdojo.com/wp-content/uploads/2023/06/aws-certified-cloud-practitioner-clf-c02-exam-guide-exam-topics-pdf-book-1200x899.png)](https://tutorialsdojo.com/new-aws-certified-cloud-practitioner-clf-c02-exam-version-in-2023/)
-
-Take note that the Cloud Practitioner exam significantly increased its coverage in Security & Compliance domain. This seems to be the trend in the previously iterated AWS certification exam, where the security-related component of the test is increased. From 25%, the CLF-C02 exam now constitutes 30% of security-related topics.
-
-There are also 2 previous CLF-C01 exam domains that were renamed. The “Technology” domain is now called “Cloud Technology & Services” while “Billing and Pricing” has been modified to “Billing, Pricing and Support”
 
 # CLF-C02 Exam Topics for AWS Certified Cloud Practitioner
 The list of the AWS Certified Cloud Practitioner exam topics can be found in the official CLF-C02 exam guide. These topics are divided into domains and per task statement:
@@ -407,9 +380,6 @@ Skills in:
 2. [Study4Exam Practice Test](https://www.study4exam.com/amazon/free-clf-c02-questions/) Collection of 612 practice questions covering all core exam topics comprehensively.
 
 _Out of scope:_ Business Applications, design, code, implementation, troubleshooting, migration, load testing etc.
-<img src="./assets/pexels-prateek-katyal-6298482.jpg" width="350px"/>
-
-Image Source: [Prateek Katyal (Paypal support link)](https://www.paypal.com/cgi-bin/webscr?business=add.prateek%40gmail.com&cmd=_donations&currency_code=USD&item_name=Prateek+Katyal+-+Pexels&item_number=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Finspirational-quote-printed-on-paper-6298482%2F&lc=US&notify_url=https%3A%2F%2Fwww.pexels.com%2Fcallback%2Fdonation%2Fpaypal%2F1395826%2F%3Ftoken%3DbWVkaXVtX2lkPTYyOTg0ODImbm9uY2U9d2M2M2lxMHhFaGVYNmFUdlpOLUVMZyZzZW5kZXJfaWQ9&return=https://pexels.com/@prateekkatyal/)
 
 ## AWS Cloud Practitioner 2023 Study Notes
 A few questions to get you warmed up!
@@ -439,7 +409,3 @@ A few questions to get you warmed up!
 * What is ELB?
 * What is EFS?
 * What is S3?
-
-
-## [NEXT](01-Value_Of_AWS_Cloud.md)
->>>>>>> main-temp
